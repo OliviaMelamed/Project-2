@@ -3,14 +3,14 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/src/ForestSimulation/Acadian.csv">
+        <entry key="/Acadian.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/src/ForestSimulation/Montane.csv">
+        <entry key="/Montane.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
